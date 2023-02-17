@@ -2,7 +2,7 @@ export default defineNuxtConfig({
   modules: [
     '@unocss/nuxt',
     '@vueuse/nuxt',
-    '@nuxt/devtools'
+    // '@nuxt/devtools'
   ],
   runtimeConfig: {
     apiKey: '',
